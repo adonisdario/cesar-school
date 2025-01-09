@@ -1,0 +1,69 @@
+Currículo Adonis Dario
+
+Nome: Adônis Dário Pires Gomes de Morais
+
+Brasil, 24 anos, Masculino
+CPF: 70394188438
+Rua Isaac Salazar, 102,  Recife, Pernambuco, Brasil
+Recife/PE - CEP: 52060-105
+  +5581992311948
+  dariopgm@gmail.com
+ 
+
+Experiência profissional
+Empresa: Orizont Tecnologia Ltda
+Cargo: Engenheiro de Software Júnior (08/2022 -)
+Principais atividades desempenhadas: 
+- Aplicativos Android (Java) destinados a funcionários de empresas clientes, para que registrem suas atividades de campo através de Ordens de Serviços. O aplicativos conectam-se com o servidor utilizando a API REST através da biblioteca Retrofit;
+- Aplicação de conceitos de Design de Interação; assim os aplicativos possuem o mesmo padrão de design, interação e respostas, facilitando a curva de aprendizado dos novos clientes;
+- Implementação de sistema de atualização de versões do aplicativo muito mais fácil para os clientes;
+- Desenvolvimento do programa web da Orizont, adicionando novos recursos e telas como consultas de dados e gráficos interativos. Desenvolvido usando .NET.;
+- Versionamento de código utilzando a ferramenta Tortoise SVN;
+- Organização de tarefas utilizando a plataforma Jira.
+
+Empresa: Orizont Tecnologia Ltda
+Cargo: Estagiário em Desenvolvolvimento de Software (02/2021 – 08/2022)
+Principais atividades desempenhadas: Estudo da linguagem e plataforma Android/Java e clonando aplicativos existentes como treino;
+
+Graduação
+
+Universidade Católica de Pernambuco - Bacharelado, Ciência da Computação 
+1/2017 - 6/2022
+
+CESAR School – Pós-graduação Lato Sensu – Especialização, Engenharia e Análise de Dados
+3/2024 – 7/2025
+
+
+Conquistas
+Conquista: Certificado
+Título: Desenvolvimento Android Completo
+Descrição: Desenvolvimento de 18 aplicativos Android diferentes, utilizando diversas ferramentas e estruturas do Android, assim como bibliotecas externas.
+
+Conquista: Certificado
+Título: Curso de ASP .NET Core MVC - Criando um site do zero (NET 6
+Descrição: Desenvolvimento de um site de vendas utilizando ASP.NET Core MVC.
+
+Idiomas
+Idioma: Inglês
+Nível: Avançado – FCE (Cambridge University Press) Grade C
+
+Outras Experiências
+Aplicativo Android: Aplicativo para registro de estatísticas de futebol (Meu Scout).
+Descrição: Desenvolvido em 6 meses como projeto de conclusão de curso (2022), o Meu Scout tem como objetivo o registro dos Scouts (gols, assistências, defesas, etc.) de uma partida de futebol que o usuário jogou. A partir destes dados, o aplicativo mostra um relatório com gráficos para a análise do desempenho do jogador. Os dados ficam armazenados no banco de dados em nuvem Firebase. O aplicativo está disponível para download no meu GitHub, assim como slides do aplicativo mostrando as funcionalidades.
+Ferramentas utilizadas: Android Studio, Firebase, MP Android Chart.
+
+Excel: Nível Médio
+Principais atividades: Organização de Bolões: Registro de palpites, cálculo de pontuação automático, montagem de tabelas de classificação semiautomática, desenvolvimento de fómulas personalizadas em VBA, organização de estatísticas para montagem de gráficos e análise de desempenho; Aquisição de Dados para o meu aplicativo Android: Adquirir, filtrar e selecionar dados dos jogadores reais de Futebol profissional para compará-los com o desempenho do usuário do aplicativo.
+
+
+Análise de Dados: Projetos pessoais, exercícios e trabalhos da pós graduação.
+Principais atividades: Organização e limpeza de Dataframes, criação de dashboards, apresentação de gráficos e execução de análises.
+Ferramentas utilizadas: Python, Pandas, VSCode, Excel, Plotly, Numpy, Matplot, Streamlit
+
+
+Javascript,  SQL: Nível básico
+
+
+Perfil em redes sociais
+LinkedIn: www.linkedin.com/in/adonisdario
+Github: www.github.com/adonisdario
